@@ -5,7 +5,7 @@ export const s = StyleSheet.create({
         height: 36,
         position: 'absolute',
         zIndex: 1,
-        top: 44,
+        top: 64,
     },
     content: {
         gap: 8,
